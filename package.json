@@ -1,0 +1,22 @@
+{
+  "name": "randomcrap",
+  "version": "1.0.0",
+  "description": "Pacing app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollyward/randomcrap.git"
+  },
+  "keywords": [
+    "productivity"
+  ],
+  "author": "Holly Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hollyward/randomcrap/issues"
+  },
+  "homepage": "https://github.com/hollyward/randomcrap#readme"
+}
